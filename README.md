@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEEUN%20KIM🎨&fontSize=90)
+
+<div align=center>
 
 <!--
 **seeun0210/seeun0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
