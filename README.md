@@ -21,7 +21,13 @@
   <br>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
-  
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Lightsail-00749E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/S3%20Bucket-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
+
   
   
  
