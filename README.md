@@ -3,6 +3,13 @@
 </p>
 
 <div align="center">
+  <a href="https://seeun0210portfolio.vercel.app/">
+    🔗 포트폴리오 홈페이지
+  </a>
+      <br>
+  <a href="https://seeun0210.tistory.com/">
+    🔗 기술블로그 보러가기
+  </a>
 
   <h3> ⚒️ T e c h ⚒️ </h3> 
 
@@ -43,6 +50,11 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FF-hiller&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
 </a>
 <br>
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=seeun0210" alt="Anurag's GitHub Stats">
+</a>
+<br>
 
 <!-- GitHub Streak -->
 <a href="https://git.io/streak-stats">
@@ -53,9 +65,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeun0210&layout=compact&theme=Most%20Used%20Languages&langs_count=6" alt="Top Languages">
 </a>
-<br>
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=seeun0210" alt="Anurag's GitHub Stats">
-</a>
+
+
 </div>
