@@ -13,6 +13,10 @@
   <h4>DataBase</h4>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
+  <h4>ORM/ODM</h4>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Mongoose-47A248?style=flat&logo=mongoose&logoColor=white">
   <h4>Deploy</h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
