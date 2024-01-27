@@ -70,10 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeun0210&layout=compact&theme=Most%20Used%20Languages&langs_count=6" alt="Top Languages">
 </a>
 
-<br>
-<a href="https://solved.ac/cocobell3/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cocobell3" alt="Solved.ac Profile">
-</a>
+
 
 
 </div>
