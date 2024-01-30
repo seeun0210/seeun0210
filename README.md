@@ -6,7 +6,7 @@
   <a href="https://seeun0210portfolio.vercel.app/">
     🔗 포트폴리오 홈페이지
   </a>
-      <br>
+  <br>
   <a href="https://seeun0210.tistory.com/">
     🔗 기술블로그 보러가기
   </a>
@@ -17,13 +17,16 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"> <!-- NestJS 추가 -->
   <h4>DataBase</h4>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"> <!-- PostgreSQL 추가 -->
   <h4>ORM/ODM</h4>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Mongoose-47A248?style=flat&logo=mongoose&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeORM-376E9B?style=flat&logo=TypeORM&logoColor=white"> <!-- TypeORM 추가 -->
   <h4>Deploy</h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
@@ -69,8 +72,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeun0210&layout=compact&theme=Most%20Used%20Languages&langs_count=6" alt="Top Languages">
 </a>
-
-
-
 
 </div>
