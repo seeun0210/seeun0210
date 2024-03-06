@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEEUN%20KIM🎨&fontSize=90">
 </p>
-
+ 
 <div align="center">
   <a href="https://seeun0210portfolio.vercel.app/">
     🔗 포트폴리오 홈페이지
