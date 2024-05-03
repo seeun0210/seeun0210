@@ -3,13 +3,13 @@
 </p>
  
 <div align="center">
-<!--   <a href="https://seeun0210portfolio.vercel.app/">
+  <a href="https://seeun0210portfolio.vercel.app/">
     🔗 포트폴리오 홈페이지
   </a>
   <br>
   <a href="https://seeun0210.tistory.com/">
     🔗 기술블로그 보러가기
-  </a> -->
+  </a>
 
   <h3> ⚒️ T e c h ⚒️ </h3> 
 
